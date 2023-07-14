@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\C#\Aula_01\bin\Debug\net7.0\Aula 01.exe
 D:\C#\Aula_01\bin\Debug\net7.0\Aula 01.deps.json
 D:\C#\Aula_01\bin\Debug\net7.0\Aula 01.runtimeconfig.json
@@ -13,3 +14,20 @@ D:\C#\Aula_01\obj\Debug\net7.0\refint\Aula 01.dll
 D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.pdb
 D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.genruntimeconfig.cache
 D:\C#\Aula_01\obj\Debug\net7.0\ref\Aula 01.dll
+=======
+D:\C#\Aula_01\bin\Debug\net7.0\Aula 01.exe
+D:\C#\Aula_01\bin\Debug\net7.0\Aula 01.deps.json
+D:\C#\Aula_01\bin\Debug\net7.0\Aula 01.runtimeconfig.json
+D:\C#\Aula_01\bin\Debug\net7.0\Aula 01.dll
+D:\C#\Aula_01\bin\Debug\net7.0\Aula 01.pdb
+D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.csproj.AssemblyReference.cache
+D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.AssemblyInfoInputs.cache
+D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.AssemblyInfo.cs
+D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.csproj.CoreCompileInputs.cache
+D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.dll
+D:\C#\Aula_01\obj\Debug\net7.0\refint\Aula 01.dll
+D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.pdb
+D:\C#\Aula_01\obj\Debug\net7.0\Aula 01.genruntimeconfig.cache
+D:\C#\Aula_01\obj\Debug\net7.0\ref\Aula 01.dll
+>>>>>>> 2e87ae29f0134b93507f2e4c69c28fc7c5e2b86c

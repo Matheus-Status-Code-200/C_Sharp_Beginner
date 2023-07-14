@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net7.0
 build_property.TargetPlatformMinVersion = 
@@ -9,3 +10,16 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Aula_02
 build_property.ProjectDir = D:\C#\Aula 02\
+=======
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aula_02
+build_property.ProjectDir = D:\C#\Aula 02\
+>>>>>>> 2e87ae29f0134b93507f2e4c69c28fc7c5e2b86c
