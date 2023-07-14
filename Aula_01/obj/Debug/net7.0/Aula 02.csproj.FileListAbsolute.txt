@@ -1,0 +1,30 @@
+D:\C#\Aula 02\bin\Debug\net7.0\Aula 02.exe
+d:\C#\Aula 02\bin\Debug\net7.0\Aula 02.deps.json
+d:\C#\Aula 02\bin\Debug\net7.0\Aula 02.runtimeconfig.json
+D:\C#\Aula 02\bin\Debug\net7.0\Aula 02.dll
+D:\C#\Aula 02\bin\Debug\net7.0\Aula 02.pdb
+D:\C#\Aula 02\obj\Debug\net7.0\Aula 02.csproj.AssemblyReference.cache
+D:\C#\Aula 02\obj\Debug\net7.0\Aula 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aula 02\obj\Debug\net7.0\Aula 02.AssemblyInfoInputs.cache
+D:\C#\Aula 02\obj\Debug\net7.0\Aula 02.AssemblyInfo.cs
+D:\C#\Aula 02\obj\Debug\net7.0\Aula 02.csproj.CoreCompileInputs.cache
+D:\C#\Aula 02\obj\Debug\net7.0\Aula 02.dll
+D:\C#\Aula 02\obj\Debug\net7.0\refint\Aula 02.dll
+D:\C#\Aula 02\obj\Debug\net7.0\Aula 02.pdb
+d:\C#\Aula 02\obj\Debug\net7.0\Aula 02.genruntimeconfig.cache
+d:\C#\Aula 02\obj\Debug\net7.0\ref\Aula 02.dll
+D:\C#\Aula_02\bin\Debug\net7.0\Aula 02.exe
+D:\C#\Aula_02\bin\Debug\net7.0\Aula 02.deps.json
+D:\C#\Aula_02\bin\Debug\net7.0\Aula 02.runtimeconfig.json
+D:\C#\Aula_02\bin\Debug\net7.0\Aula 02.dll
+D:\C#\Aula_02\bin\Debug\net7.0\Aula 02.pdb
+D:\C#\Aula_02\obj\Debug\net7.0\Aula 02.csproj.AssemblyReference.cache
+D:\C#\Aula_02\obj\Debug\net7.0\Aula 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aula_02\obj\Debug\net7.0\Aula 02.AssemblyInfoInputs.cache
+D:\C#\Aula_02\obj\Debug\net7.0\Aula 02.AssemblyInfo.cs
+D:\C#\Aula_02\obj\Debug\net7.0\Aula 02.csproj.CoreCompileInputs.cache
+D:\C#\Aula_02\obj\Debug\net7.0\Aula 02.dll
+D:\C#\Aula_02\obj\Debug\net7.0\refint\Aula 02.dll
+D:\C#\Aula_02\obj\Debug\net7.0\Aula 02.pdb
+D:\C#\Aula_02\obj\Debug\net7.0\Aula 02.genruntimeconfig.cache
+D:\C#\Aula_02\obj\Debug\net7.0\ref\Aula 02.dll
