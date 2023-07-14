@@ -1,0 +1,71 @@
+# Pastas
+bin/
+obj/
+Debug/
+Release/
+packages/
+
+# Arquivos de solução do Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de configuração do Visual Studio
+*.vs/
+*.vscode/
+
+# Cache do NuGet
+*.nuget.props
+*.nuget.targets
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.tmp.*
+*.bak
+*.cache
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp_proj
+*_wpftmp.csproj
+*.pidb
+*.userprefs
+*.dbmdl
+*.jfm
+*.sum
+*.map
+
+# Arquivos de ferramentas do Visual Studio
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+# Visual Studio Code
+.vscode/
+.settings/
+*.code-workspace
+
+# Dependências do Node.js
+node_modules/
+
+# Pacotes do npm
+package-lock.json
+
+# Dependências do Yarn
+yarn.lock
