@@ -1,9 +1,9 @@
-﻿Console.WriteLine("Soma 2 + 2: " + (2 + 2));
-
+        ﻿Console.WriteLine("Soma 2 + 2: " + (2 + 2));
         Console.WriteLine("Subtração 5 - 3: " + (5 - 3));
         Console.WriteLine("Multiplicação 2 * 3: " + (2 * 3));
         Console.WriteLine("Divisão 10 / 2: " + (10 / 2));
         Console.WriteLine("Módulo 10 % 3: " + (10 % 3));
+        
         int numero = 5;
         Console.WriteLine("Incremento ++numero: " + (++numero));
         int outroNumero = 10;
