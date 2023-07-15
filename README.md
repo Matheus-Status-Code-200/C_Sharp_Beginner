@@ -1,4 +1,4 @@
-# C_Sharp_Beginner
+# C_Sharp_Beginner.
 # Projeto para Iniciantes em C#
 
 Este projeto é voltado para iniciantes em programação que desejam praticar os conceitos básicos da linguagem C#. Ele consiste em um programa simples que solicita ao usuário que digite seu nome e, em seguida, retorna a quantidade de letras no nome.
