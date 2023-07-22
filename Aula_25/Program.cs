@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("\nTry e cath.....");
+        Console.WriteLine("\nTry e catch.....");
         Console.WriteLine("-----------------------------\n");
          Console.WriteLine("Esse programa recebe uma entrada e aalisa se é um numero ou letra\n");
         Console.Write("Digite um número: ");
