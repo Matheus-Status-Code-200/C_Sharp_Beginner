@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("\nTry e catch.....");
         Console.WriteLine("-----------------------------\n");
-         Console.WriteLine("Esse programa recebe uma entrada e aalisa se é um numero ou letra\n");
+         Console.WriteLine("Esse programa recebe uma entrada e analisa se é um numero ou letra\n");
         Console.Write("Digite um número: ");
         string input = Console.ReadLine();
 
